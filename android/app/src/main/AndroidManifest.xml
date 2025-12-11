@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="rickandmorty"
+=======
+        android:label="analog_clock"
+>>>>>>> 94878cfedef48129df664dce9d8ddc9a8510651b
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -8,7 +8,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:rickandmorty/main.dart';
+=======
+import 'package:analog_clock/main.dart';
+>>>>>>> 94878cfedef48129df664dce9d8ddc9a8510651b
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

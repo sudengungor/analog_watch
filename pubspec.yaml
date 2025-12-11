@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: rickandmorty
+=======
+name: analog_clock
+>>>>>>> 94878cfedef48129df664dce9d8ddc9a8510651b
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -28,16 +32,26 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+<<<<<<< HEAD
   flutter:
+=======
+  audioplayers: ^6.5.1
+  flutter:
+    
+>>>>>>> 94878cfedef48129df664dce9d8ddc9a8510651b
     sdk: flutter
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
+<<<<<<< HEAD
   go_router: ^16.2.4
   provider: ^6.1.5+1
   dio: ^5.9.0
   get_it: ^8.2.0
+=======
+  flutter_analog_clock: ^1.0.3
+>>>>>>> 94878cfedef48129df664dce9d8ddc9a8510651b
 
 dev_dependencies:
   flutter_test:
@@ -60,7 +74,12 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+<<<<<<< HEAD
 
+=======
+  assets:
+    - assets/sounds/click.mp3
+>>>>>>> 94878cfedef48129df664dce9d8ddc9a8510651b
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
@@ -77,6 +96,7 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
+<<<<<<< HEAD
   fonts:
     - family: Inter
       fonts:
@@ -87,6 +107,13 @@ flutter:
          - asset: assets\fonts\Inter-Medium.ttf
            weight: 500
          - asset: assets\fonts\Inter-Regular.ttf
+=======
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+>>>>>>> 94878cfedef48129df664dce9d8ddc9a8510651b
   #         style: italic
   #   - family: Trajan Pro
   #     fonts:

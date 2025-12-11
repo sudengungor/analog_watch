@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "rickandmorty",
     "short_name": "rickandmorty",
+=======
+    "name": "analog_clock",
+    "short_name": "analog_clock",
+>>>>>>> 94878cfedef48129df664dce9d8ddc9a8510651b
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
